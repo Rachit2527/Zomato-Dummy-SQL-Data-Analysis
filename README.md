@@ -24,7 +24,7 @@ To get started with this project, you'll need a SQL database management system s
 
 2. Set Up the Database Execute the SQL scripts in the table_creation.sql file to create the necessary tables and populate them with dummy data.
 3. Database Schema:
-4. 
+
 The schema is defined in the table_creation.sql file and includes the following tables:
 
 users: Contains user details including user IDs, names, and registration dates.
