@@ -8,8 +8,6 @@ This project contains a collection of SQL scripts for setting up a dummy dataset
 - [Database Schema](#database-schema)
 - [SQL Queries](#sql-queries)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 To get started with this project, you'll need a SQL database management system such as PostgreSQL, MySQL, or SQLite. Follow the steps below to set up the database.
